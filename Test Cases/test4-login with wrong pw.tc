@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test4-login with wrong pw</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e15adbe9-cbf1-44a4-be7c-92ab67f01ef3</testCaseGuid>
+</TestCaseEntity>
